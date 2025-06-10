@@ -1,1 +1,1 @@
-Some frontend changes happened
+Another vue file change
